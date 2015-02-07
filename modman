@@ -1,0 +1,9 @@
+src/app/code/community/Itabs/CustomSku                              app/code/community/Itabs/CustomSku
+src/app/etc/modules/Itabs_CustomSku.xml                             app/etc/modules/Itabs_CustomSku.xml
+src/app/design/adminhtml/default/default/layout/itabs_customsku.xml app/design/adminhtml/default/default/layout/itabs_customsku.xml
+src/app/design/adminhtml/default/default/template/itabs/customsku   app/design/adminhtml/default/default/template/itabs/customsku
+src/app/design/frontend/base/default/layout/itabs_customsku.xml     app/design/frontend/base/default/layout/itabs_customsku.xml
+src/app/design/frontend/base/default/template/itabs/customsku       app/design/frontend/base/default/template/itabs/customsku
+src/app/locale/de_DE/Itabs_CustomSku.csv                            app/locale/de_DE/Itabs_CustomSku.csv
+src/skin/frontend/base/default/itabs/customsku                      skin/frontend/base/default/itabs/customsku
+src/skin/frontend/rwd/default/itabs/customsku                       skin/frontend/rwd/default/itabs/customsku
