@@ -33,7 +33,9 @@ Installation Instructions
 #### Via modman
 
 - Install [modman](https://github.com/colinmollenhour/modman) on your system
-- Run the following command in your Magento document root: `modman clone https://github.com/itabs/Itabs_CustomSku.git`
+- Run the following command in your Magento document root: 
+
+`modman clone https://github.com/itabs/Itabs_CustomSku.git`
 
 #### Via composer
 - Install [composer](http://getcomposer.org/download/) on your system
@@ -80,7 +82,7 @@ skin/frontend/rwd/default/itabs/customsku
 ```
 
 - Via modman: `modman remove Itabs_CustomSku`
-* Via composer, remove the requirement of `firewizard/magento-minifier`
+* Via composer, remove the requirement of `itabs/customsku`
 
 After the uninstallation of the extension you need to run the following SQL:
 ```sql
@@ -99,9 +101,9 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 Developer
 ---------
 Rouven Alexander Rieker / ITABS GmbH
-[http://www.itabs.de](http://www.itabs.de)
-[@therouv](https://twitter.com/therouv)
-[@itabs_gmbh](https://twitter.com/itabs_gmbh)
+- [http://www.itabs.de](http://www.itabs.de)
+- [@therouv](https://twitter.com/therouv)
+- [@itabs_gmbh](https://twitter.com/itabs_gmbh)
 
 License
 -------
