@@ -1,0 +1,21 @@
+<?php
+/**
+ * @var $this Itabs_CustomSku_Block_Adminhtml_Info
+ */
+?>
+<?php if ($_customSku = $this->getCustomSku()): ?>
+    <tr class="border">
+        <td class="">
+            <strong><?php echo $this->__('Custom SKU by customer:'); ?></strong> <?php echo $this->escapeHtml($_customSku); ?>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+    </tr>
+<?php endif; ?>

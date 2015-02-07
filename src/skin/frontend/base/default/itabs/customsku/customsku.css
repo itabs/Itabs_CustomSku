@@ -1,0 +1,35 @@
+/**
+ * This file is part of the Itabs_CustomSku module.
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ *
+ * @category  Itabs
+ * @package   Itabs_CustomSku
+ * @author    ITABS GmbH <info@itabs.de>
+ * @copyright 2015 ITABS GmbH (http://www.itabs.de)
+ */
+
+.checkout-custom-sku {
+    white-space: nowrap;
+}
+
+.checkout-custom-sku .label {
+    font-weight: bold;
+}
+
+.customsku-table td {
+    vertical-align: middle;
+}
+
+.customsku-table td input {
+    width: 225px;
+}
+
+.customsku-table td, .customsku-table tfoot td {
+    padding: 8px;
+}
+
+.itabs-customsku-customer-list .buttons-set {
+    margin-top: 1em;
+}
